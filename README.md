@@ -101,8 +101,8 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
+![image](image/444.png)
 
-![image](../444.png)
 
 # RESULT:
 The programs are executed successfully.
